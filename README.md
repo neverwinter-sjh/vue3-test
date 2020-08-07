@@ -1,4 +1,5 @@
-# vue3test
+# vue3-test
+Vue 3 관련해서 여러가지 테스트해보는 저장소
 
 ## Project setup
 ```
